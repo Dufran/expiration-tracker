@@ -17,7 +17,7 @@ duckduckgo-search = "^3.9.0"
 gunicorn = "^21.2.0"
 psycopg = {extras = ["binary"], version = "^3.1.12"}
 python = "^3.11"
-uvicorn = {extras = ["standard"], version = "^0.23.2"}
+uvicorn = {extras = ["standard"], version = "^0.29.0"}
 
 [tool.poetry.group.dev.dependencies]
 mixer = "^7.2.2"
