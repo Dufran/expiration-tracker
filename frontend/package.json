@@ -57,7 +57,7 @@
     "prettier-config-nick": "^1.0.2",
     "ts-node": "^10.9.1",
     "typescript": "*",
-    "vite": "^5.0.12",
+    "vite": "^5.0.13",
     "vitest": "^0.34.6"
   }
 }
