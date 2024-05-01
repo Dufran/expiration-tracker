@@ -6,7 +6,7 @@ readme = "README.md"
 version = "0.1.0"
 
 [tool.poetry.dependencies]
-Django = "^5.0.1"
+Django = "^5.0.4"
 django-cors-headers = "^4.3.0"
 django-extensions = "^3.2.3"
 django-filter = "^23.3"
