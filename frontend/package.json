@@ -51,7 +51,7 @@
     "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.33.2",
-    "jsdom": "^22.1.0",
+    "jsdom": "^24.0.0",
     "less": "^4.2.0",
     "prettier": "3.0.3",
     "prettier-config-nick": "^1.0.2",
